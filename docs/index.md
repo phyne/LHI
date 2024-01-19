@@ -1,11 +1,15 @@
-# Obsidian Notes
+# LHI Las Vegas Tech Department
 
-Publish your public notes with MkDocs
+Hi, welcome to the landing page for the Tech Department! Below you will find the links directing you to various sub-categories.
 
-## Hello World!
+[[Troubleshooting]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+[[ToDo-Notes]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+[[Procedures]]
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+[[Bubble Schedule]]
+
+[[Upcoming Events]]
+
+[[Maintenance Schedule]]

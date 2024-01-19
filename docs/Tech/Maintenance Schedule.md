@@ -8,6 +8,7 @@
 ---
 #### Semi-Annually
 - [[conventional light cleaning]] - dusting lights, cleaning lens
+- 
 ---
 #### Quarterly
 - [[bubble machine deep cleaning]]
@@ -36,6 +37,7 @@
 ---
 #### Semi-Weekly
 - [[Cocolabs reboot]]
+- 
 ---
 #### Daily
 - [[mirror cleaning]]
