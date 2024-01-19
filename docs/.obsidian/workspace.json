@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e02a50c94b1f1364",
+            "id": "1559e0e7392a2b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maintenance Overview.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maintenance Overview.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maintenance Overview.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maintenance Overview.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,14 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02a50c94b1f1364",
+  "active": "1559e0e7392a2b0a",
   "lastOpenFiles": [
-    "index.md",
-    "Tech/Tech.md",
+    "Procedures/Opening Tech Checklist.md",
+    "Procedures/Lobby Procedures/LED Wall.md",
+    "Procedures/Lobby Procedures/Cindy Fixture.md",
+    "Procedures/Lobby Procedures/Art Wall.md",
+    "Procedures/Lobby Procedures.md",
+    "Procedures/Lobby Procedures/Frozen Monitor.md",
+    "Procedures/Lobby Procedures/Maquette Monitor.md",
+    "Procedures/Gallery Procedures.md",
+    "Procedures/Gallery Procedures",
+    "Procedures/Lobby Procedures",
+    "ToDo-Notes.md",
     "Procedures.md",
+    "index.md",
     "Maintenance Overview.md",
+    "Tech/Tech.md",
     "Bubble Schedule.md",
-    "Troubleshooting.md",
-    "ToDo-Notes.md"
+    "Troubleshooting.md"
   ]
 }
