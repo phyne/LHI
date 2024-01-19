@@ -1,14 +1,14 @@
-[link to external Google sheet to track dates](https://docs.google.com/spreadsheets/d/1fltfDdZCXb6UVVmey-i2X4R3m_FBNzqdIk5zP8vamKw/edit#gid=0)
+[Tracking Sheet](https://docs.google.com/spreadsheets/d/1fltfDdZCXb6UVVmey-i2X4R3m_FBNzqdIk5zP8vamKw/edit#gid=0)
 #### Annually
-- [[ceiling rig inspection]] - lobby/gallery, and on top of ceiling
-- [[truss cleaning]] - can be done occasionally during other tasks
+- [[ceiling rig inspection]]
+- [[truss cleaning]]
 - [[inventory audit]]
 - [[security camera cleaning]]
 - change out gels, label them
 ---
 #### Semi-Annually
-- [[conventional light cleaning]] - dusting lights, cleaning lens
-- test
+- [[conventional light cleaning]]
+- -
 ---
 #### Quarterly
 - [[bubble machine deep cleaning]]
@@ -37,7 +37,7 @@
 ---
 #### Semi-Weekly
 - [[Cocolabs reboot]]
-- test
+- -
 ---
 #### Daily
 - [[mirror cleaning]]

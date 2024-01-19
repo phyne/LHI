@@ -18,3 +18,10 @@
 - projector 109/129/+ more are very dim. I tried to fix but always tradeoffs
 
 - go to barco website and sign up with email?
+
+- Mic check around gallery
+
+- who has changed the light before? 
+- tech email forwarding
+- ask discord techs about vinyl Teflon anti reflective crap
+- there's a Las Vegas discord channel? 

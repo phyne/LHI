@@ -1,4 +1,6 @@
 
+lobby/gallery, at the truss AND at the ceiling
+
 - check every bolt
 	- hand check all bolts 
 - check truss

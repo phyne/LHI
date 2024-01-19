@@ -4,10 +4,13 @@
 - check floor sensors (trash cans) - are they sitting correctly? - are they clean?
 - test bubbles (run with show test - at minimum for Frozen and Ending)
 - test bracelets
-- reboot Cocolabs PC every 2 days
+- test God mic
+- test backup audio
+- walk the gallery and inspect the show as it runs
+- reboot Cocolabs control PC every 2 days
 
 ### Lobby Testing
-- test show announcements
+- test IDA announcements
 - confirm all TVs are working
 	- art wall
 	- maquette
@@ -21,3 +24,4 @@
 - work lights are off
 
 - send all clear in "opening" slack channel
+- fill out the tech report for the day, noting any discrepancies or malfunctions
