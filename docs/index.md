@@ -12,4 +12,4 @@ Hi, welcome to the landing page for the Tech Department! Below you will find the
 
 [[Upcoming Events]]
 
-[[Maintenance Schedule]]
+[[Maintenance Overview]]

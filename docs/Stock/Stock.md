@@ -1,1 +1,0 @@
-Hi, welcome to the landing page for the Stock Department! Below you will find the links directing you to various sub-categories.
